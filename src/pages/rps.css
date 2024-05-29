@@ -1,0 +1,8 @@
+.rps{
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(../assets/back3.png);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
